@@ -70,7 +70,7 @@ maintain data integrity, and plan for growth.
 > Add your ERD image to an `images/` folder in this repo and it will display
 > here. (Replace the path below with your file name.)
 
-![SmartPark ERD](images/erd.png)
+![SmartPark ERD](Picture1.png)
 
 ---
 
@@ -232,3 +232,5 @@ Resolves the many-to-many relationship between **Employee** and **Facility**.
 ---
 
 *Database Design — Part A. SmartPark Smart Parking Management System.*
+<img width="1008" height="838" alt="Picture1" src="https://github.com/user-attachments/assets/3362e736-2bea-40cb-8d01-6e5ec281af0e" />
+
