@@ -1,4 +1,4 @@
-# SmartPark — Database Design (Part A)
+# SmartPark — Database Design 
 
 A relational database design for **SmartPark**, a smart parking management
 company that operates across multiple cities and offers automated parking
@@ -68,7 +68,7 @@ maintain data integrity, and plan for growth.
 > **Figure 1: ERD Diagram of SmartPark**
 
 
-![SmartPark ERD](*Database Design — Part A. SmartPark Smart Parking Management System.*
+!(*Database Design . SmartPark Smart Parking Management System.*
 <img width="1008" height="838" alt="Picture1" src="https://github.com/user-attachments/assets/3362e736-2bea-40cb-8d01-6e5ec281af0e" />)
 
 ---
